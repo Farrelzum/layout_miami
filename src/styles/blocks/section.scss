@@ -1,7 +1,0 @@
-@import '../utils/mixins';
-
-.section {
-  @include grid;
-
-  justify-self: center;
-}
