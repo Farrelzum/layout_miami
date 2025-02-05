@@ -1,0 +1,2 @@
+window.addEventListener("hashchange",function(){"#menu"===window.location.hash?document.body.classList.add("page__body--with-menu"):document.body.classList.remove("page__body--with-menu")}),document.querySelector("form").addEventListener("submit",function(e){e.preventDefault(),document.getElementById("submit-btn").disabled=!0,console.log("Formularz został wysłany, przycisk wyłączony.")});
+//# sourceMappingURL=index.2cc0125c.js.map
